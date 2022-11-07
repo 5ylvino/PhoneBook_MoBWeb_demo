@@ -139,7 +139,7 @@
                         <button
                             class="w-full bg-transparent border-none outline-none pl-[10px] @error('username') is-invalid @enderror"
                             type="submit"
-                        >LOGIN</button>
+                        >REGISTER</button>
                         </div>
                 </div>
 
