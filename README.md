@@ -1,4 +1,4 @@
-# PhoneBook_MoBWeb_NaXum_demo
+# PhoneBook_MoBWeb_demo
 task 2
 ![mobile](https://user-images.githubusercontent.com/61919575/205386495-2420b682-08e3-4c28-8a13-9923953735d3.png)
 
